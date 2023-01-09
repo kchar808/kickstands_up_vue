@@ -11,7 +11,7 @@
     "bootstrap": "^4.4.1",
     "core-js": "^3.4.3",
     "jquery": "^3.4.1",
-    "luxon": "^1.21.3",
+    "luxon": "^1.28.1",
     "moment": "^2.24.0",
     "popper.js": "^1.16.0",
     "v-calendar": "^1.0.0-beta.23",
